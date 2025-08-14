@@ -95,7 +95,7 @@
         - often called DRAM
 * Measuring Memory Capacity
     + number of cells is measured in powers of 2
-    + 2<sup>10 = 1024 bytes AKA cells
+    + 2<sup>10</sup> = 1024 bytes AKA cells
 
 
 ##### **1.3 Mass Storage** (pg. 41)
@@ -108,4 +108,5 @@
     + often need mechanical motion which is less fast than pulses
     + prone to mechanical failures
 * Magnetic Systems 
+
     + TODO
